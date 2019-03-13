@@ -1,0 +1,7 @@
+admin:
+  username: root
+  password_hash: root
+  secret: hey hexo
+  deployCommand: ./admin_script/hexo-deploy.sh
+options:
+  overwriteImages: true
